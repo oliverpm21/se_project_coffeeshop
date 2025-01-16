@@ -119,6 +119,10 @@
   list-style-type: none;
 }
 
+.recipes__iframe {
+  border: none;
+}
+
 .recipes__video-caption {
   font-weight: 500;
   font-size: 20px;
