@@ -112,6 +112,12 @@
   line-height: 30px;
 }
 
+.video {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
 .recipes__videos {
   display: flex;
   justify-content: center;
